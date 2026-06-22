@@ -1,6 +1,0 @@
-﻿step,users,step_conversion_rate,total_conversion_rate
-1_visit_home,5000,,1.0
-2_view_product,4132,0.8264,0.8264
-3_add_cart,1925,0.4659,0.385
-4_submit_order,1157,0.601,0.2314
-5_pay_success,878,0.7589,0.1756
