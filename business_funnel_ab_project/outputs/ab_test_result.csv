@@ -1,0 +1,2 @@
+﻿experiment_id,control_users,control_paid_users,control_pay_rate,treatment_users,treatment_paid_users,treatment_pay_rate,absolute_uplift_pp,relative_lift,z_value,p_value,ci_95_low_pp,ci_95_high_pp,conclusion
+checkout_opt_202605,2522,408,0.1618,2478,470,0.1897,2.79,0.1724,2.5918,0.009548,0.68,4.9,显著提升，建议灰度放量
