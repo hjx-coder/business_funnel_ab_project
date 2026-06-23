@@ -218,6 +218,15 @@ reports/ai_business_report.md
 ```bash
 streamlit run src/app.py
 ```
+## 项目效果展示
+
+### Streamlit 分析看板
+
+![Streamlit 分析看板](assets/dashboard_overview.png)
+
+### AI 辅助业务分析报告
+
+![AI 辅助业务分析报告](assets/ai_report.png)
 
 ---
 
