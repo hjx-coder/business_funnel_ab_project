@@ -65,3 +65,11 @@ st.markdown(
 - 如果某些渠道 visit_to_pay_rate 明显偏低，应继续拆分 visit_to_view、view_to_cart、cart_to_submit、submit_to_pay，定位具体流失环节。
 """
 )
+
+
+st.subheader("五、AI辅助业务分析报告")
+report_path = ROOT / "reports" / "ai_business_report.md"
+if report_path.exists():
+    st.markdown(report_path.read_text(encoding="utf-8"))
+else:
+    st.info("还没有生成 AI 分析报告。请先运行：python src/05_ai_report.py")
