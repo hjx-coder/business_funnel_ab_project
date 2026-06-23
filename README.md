@@ -222,13 +222,11 @@ streamlit run src/app.py
 
 ### Streamlit 分析看板
 
-![Streamlit 分析看板](assets/dashboard_overview.png)
+![Streamlit 分析看板](./assets/dashboard.png)
 
 ### AI 辅助业务分析报告
 
-![AI 辅助业务分析报告](assets/ai_report.png)
-
----
+![AI 辅助业务分析报告](./assets/ai_report.png)
 
 ## 七、项目目录结构
 
